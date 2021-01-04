@@ -6,6 +6,6 @@ You will need both the Runtime and Dev SDK to compile this, then to execute it.
 
 Dependencies:\
 Newtonsoft.Json\
-DiscordRichPresence\
+DiscordRichPresence
 
 both are found on NuGet :)
