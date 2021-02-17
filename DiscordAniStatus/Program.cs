@@ -43,8 +43,8 @@ namespace DiscordAniStatus
                 },
                 new Button()
                 {
-                Label = "Label on the button2",
-                Url = "Url the button will take you too2"
+                    Label = "Label on the button2",
+                    Url = "Url the button will take you too2"
                 }
             };
             while (true)
